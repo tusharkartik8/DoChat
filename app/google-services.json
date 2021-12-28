@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925045938700",
+    "project_id": "dochat-ae6be",
+    "storage_bucket": "dochat-ae6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925045938700:android:345d5c98f3dc068f202c29",
+        "android_client_info": {
+          "package_name": "com.dochat.dochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925045938700-s9g31uboflo4t6ukk8m1uijqujkk41i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dochat.dochat",
+            "certificate_hash": "b3aa4bbefec3fad5838c2f7c97682170c904f7be"
+          }
+        },
+        {
+          "client_id": "925045938700-1b59v301po1unsdcimjaj2h90oqsmkbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcx0_Vdnso0-WtCXEdlP8cAPXqFuzFh34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925045938700-1b59v301po1unsdcimjaj2h90oqsmkbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

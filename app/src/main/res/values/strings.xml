@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DoChat</string>
+    <string name="verify">Verify your phone number</string>
+    <string name="secondText">DoChat will send an SMS message to verify your phone number.</string>
+    <string name="ph_hint">Type your phone number</string>
+    <string name="Continue">Continue</string>
+    <string name="otp">Enter the OTP code to verify your phone number.</string>
+    <string name="didnt_receive_otp">Didn\'t receive the OTP</string>
+    <string name="resend">RESEND OTP?</string>
+    <string name="verify_923001234567">Verify +923001234567</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="profileImage">Please set Your name and an Optional profile image</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="setup_profile">SETUP PROFILE</string>
+
+
+</resources>
